@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ThomasWSMB
-- 👀 I’m interested in Coding, SEO, algorithms (machine learning/AI)
+- 👀 I’m interested in Coding, SEO, big data, algorithms (machine learning/AI)
 - 🌱 I’m currently learning Python, Appscript and Javascript.
-- 💞️ I’m looking to collaborate on new projetcs focused on Python.
+- 💞️ I’m looking forward to collaborate on new projetcs focused on Python.
 - 📫 How to reach me : check my profile ! (Linkedin or email)
